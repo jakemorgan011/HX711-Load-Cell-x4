@@ -4,7 +4,7 @@ This code is written in collaboration with Junson Park, Jake Morgan, and B Lee
 ------------------------------------------------------------------------------
 
 Using an arduino uno you can send out the serial data of 4 individual load cells seperately using this code.
-Typically, code and circuits containing the Hx711 Load Cell using 2 or 4 together and summed. 
+Typically, code and circuits containing the Hx711 Load Cell use 2 or 4 cells together and summed. 
 Our goal was to be able to read each value independently from one another so that we could use positional weight to manipulate midi values in ableton.
 
 you DO need to have the Hx711 library file included in this repo.

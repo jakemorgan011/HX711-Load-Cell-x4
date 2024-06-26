@@ -7,6 +7,7 @@ Using an arduino uno you can send out the serial data of 4 individual load cells
 Typically, code and circuits containing the Hx711 Load Cell using 2 or 4 together and summed. 
 Our goal was to be able to read each value independently from one another so that we could use positional weight to manipulate midi values in ableton.
 
+you DO need to have the Hx711 library file included in this repo
 you DO NOT need to use the SURF.maxpat file to interpret the serial data. It is just what we used at the time of our project. It measures the flux between the load cells.
 you can use whatever you desire to interpret serial data.
 
